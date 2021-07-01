@@ -13,7 +13,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "git-revision-webpack-plugin": "^3.0.3",
+    "git-revision-webpack-plugin": "^5.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.0.6",
     "node-sass": "^6.0.1",
